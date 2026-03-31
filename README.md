@@ -1,2 +1,45 @@
-# calculator-web-app
-Simple calculator with JS, keyboard support &amp; history
+# 🧮 Calculator Web App
+
+A responsive calculator built using HTML, CSS, and JavaScript.
+
+---
+
+## 🚀 Features
+
+- Basic arithmetic operations (+, -, *, /)
+- Keyboard support for faster input
+- Prevents invalid expressions (like ++, --)
+- Calculation history toggle
+- Smooth scrolling for long expressions
+- Clean UI inspired by mobile calculators
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## 🎯 Learning Outcomes
+
+- DOM Manipulation
+- Event Handling (keyboard + clicks)
+- UI/UX improvements
+- Debugging real-world issues
+
+---
+
+## 📌 How to Use
+
+1. Enter numbers using buttons or keyboard  
+2. Perform calculations  
+3. View history using the History button  
+
+---
+
+## 👨‍💻 Author
+
+Made by Abhijeet 🚀
